@@ -1,0 +1,3 @@
+P001;Guías Austral;Guía Turístico
+P002;Transportes Llanquihue;Transporte
+P003;Sabores Locales;Gastronomía
